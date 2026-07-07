@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Philip 👋
 
-<!--
-**PhilipJCharles/PhilipJCharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst / Reporting Analyst with a background in Computer Science and hands-on experience using Excel, SQL, Power BI, and Python to clean data, build reports, and turn raw datasets into business insights.
 
-Here are some ideas to get you started:
+## Skills
+- Excel: data cleaning, Power Query, pivot tables, reporting
+- SQL: joins, aggregation, views, data validation, business analysis queries
+- Power BI: dashboards, data modeling, DAX basics, slicers, KPI reporting
+- Python: pandas, data cleaning, automation basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/philip-charles-50917a149
+- Email: philipcharles000@gmail.com
