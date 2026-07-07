@@ -1,4 +1,4 @@
-# Hi, I'm Philip 👋
+# Hi, I'm Philip Charles
 
 Aspiring Data Analyst / Reporting Analyst with a background in Computer Science and hands-on experience using Excel, SQL, Power BI, and Python to clean data, build reports, and turn raw datasets into business insights.
 
